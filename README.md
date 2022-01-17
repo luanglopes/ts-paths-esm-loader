@@ -2,6 +2,12 @@
 
 This is a simple loader made from https://github.com/TypeStrong/ts-node/discussions/1450#discussioncomment-1806115
 
+Installation:
+
+```bash
+npm i -D ts-paths-esm-loader
+```
+
 To run your code use following command
 
 ```bash
