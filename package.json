@@ -1,0 +1,23 @@
+{
+  "name": "ts-paths-esm-loader",
+  "version": "1.0.0",
+  "description": "Node JS loader for Typescript that supports tsconfig paths",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luanglopes/ts-paths-esm-loader.git"
+  },
+  "author": "Luan Lopes <luanglopes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luanglopes/ts-paths-esm-loader/issues"
+  },
+  "homepage": "https://github.com/luanglopes/ts-paths-esm-loader#readme",
+  "dependencies": {
+    "ts-node": "^10.4.0",
+    "tsconfig-paths": "^3.12.0"
+  }
+}
