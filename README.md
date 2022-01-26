@@ -14,4 +14,4 @@ To run your code use following command
 node --experimental-specifier-resolution=node --loader ts-paths-esm-loader
 ```
 
-It was user with Node 16 and have no guaranties that it will work on any other version 
+It was used with Node 16 and have no guarantiee that it will work on any other version 
