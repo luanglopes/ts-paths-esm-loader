@@ -4,6 +4,10 @@
   "description": "Node JS loader for Typescript that supports tsconfig paths",
   "main": "index.js",
   "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./transpile-only": "./transpile-only.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
