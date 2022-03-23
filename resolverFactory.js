@@ -1,6 +1,6 @@
 import { pathToFileURL } from 'url'
 
-import { matchPath } from './matchPath'
+import { matchPath } from './matchPath.js'
 
 export const resolverFactory = (resolveTs) => {
     return function (specifier, ctx, defaultResolve) {
