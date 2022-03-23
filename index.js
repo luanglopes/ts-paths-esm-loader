@@ -1,5 +1,5 @@
 import { resolve as resolveTs } from 'ts-node/esm'
-import { resolverFactory } from './resolverFactory'
+import { resolverFactory } from './resolverFactory.js'
 
 export const resolve = resolverFactory(resolveTs)
 
