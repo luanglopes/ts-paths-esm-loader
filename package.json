@@ -1,6 +1,6 @@
 {
   "name": "ts-paths-esm-loader",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "Node JS loader for Typescript that supports tsconfig paths",
   "main": "index.js",
   "type": "module",
